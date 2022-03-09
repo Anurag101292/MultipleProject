@@ -1,10 +1,7 @@
 package com.Kaas;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
+import com.Kaas.config.FrameWorkConfig;
 import org.aeonbits.owner.ConfigCache;
-import org.aeonbits.owner.ConfigFactory;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class DemoTest {
