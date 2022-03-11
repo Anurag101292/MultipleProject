@@ -1,4 +1,4 @@
-package com.Kaas.driver.Manager;
+package com.Kaas.driver.Manager.SelenoidBrowserManager;
 
 import com.Kaas.config.ConfigFactory;
 import org.openqa.selenium.WebDriver;

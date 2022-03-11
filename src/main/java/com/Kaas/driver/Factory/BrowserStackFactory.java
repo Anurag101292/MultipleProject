@@ -1,9 +1,7 @@
 package com.Kaas.driver.Factory;
 
-import com.Kaas.driver.Manager.BrowserStackChromeManager;
-import com.Kaas.driver.Manager.BrowserStackFirefoxManager;
-import com.Kaas.driver.Manager.SeleniumGridChromeManager;
-import com.Kaas.driver.Manager.SeleniumGridFirefoxManager;
+import com.Kaas.driver.Manager.BrowserStackManager.BrowserStackChromeManager;
+import com.Kaas.driver.Manager.BrowserStackManager.BrowserStackFirefoxManager;
 import com.Kaas.driver.enumpackage.BrowserType;
 import org.openqa.selenium.WebDriver;
 

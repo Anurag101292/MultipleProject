@@ -1,8 +1,8 @@
 package com.Kaas.driver.Factory;
 
 import com.Kaas.driver.enumpackage.BrowserType;
-import com.Kaas.driver.Manager.ChromeManager;
-import com.Kaas.driver.Manager.FireFoxManager;
+import com.Kaas.driver.Manager.LocalManager.ChromeManager;
+import com.Kaas.driver.Manager.LocalManager.FireFoxManager;
 import org.openqa.selenium.WebDriver;
 
 import static com.Kaas.driver.enumpackage.BrowserType.*;

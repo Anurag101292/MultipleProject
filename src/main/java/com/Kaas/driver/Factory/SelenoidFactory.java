@@ -1,9 +1,7 @@
 package com.Kaas.driver.Factory;
 
-import com.Kaas.driver.Manager.SeleniumGridChromeManager;
-import com.Kaas.driver.Manager.SeleniumGridFirefoxManager;
-import com.Kaas.driver.Manager.SelenoidChromeManager;
-import com.Kaas.driver.Manager.SelenoidFirefoxManager;
+import com.Kaas.driver.Manager.SelenoidBrowserManager.SelenoidChromeManager;
+import com.Kaas.driver.Manager.SelenoidBrowserManager.SelenoidFirefoxManager;
 import com.Kaas.driver.enumpackage.BrowserType;
 import org.openqa.selenium.WebDriver;
 
